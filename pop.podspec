@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = 'pop'
+  spec.name         = 'pop_vudv'
   spec.version      = '1.0.11'
   spec.license      =  { :type => 'BSD' }
   spec.homepage     = 'https://github.com/facebook/pop'
